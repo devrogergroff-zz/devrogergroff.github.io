@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5828a183.chunk.css",
+    "main.js": "/static/js/main.c5b9ca80.chunk.js",
+    "main.js.map": "/static/js/main.c5b9ca80.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.df18c921.js",
+    "runtime-main.js.map": "/static/js/runtime-main.df18c921.js.map",
+    "static/js/2.8c2bfd80.chunk.js": "/static/js/2.8c2bfd80.chunk.js",
+    "static/js/2.8c2bfd80.chunk.js.map": "/static/js/2.8c2bfd80.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5828a183.chunk.css.map": "/static/css/main.5828a183.chunk.css.map",
+    "static/js/2.8c2bfd80.chunk.js.LICENSE.txt": "/static/js/2.8c2bfd80.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/PermanentMarker-Regular.109a10dc.ttf",
+    "static/media/bosque.0980baec.svg": "/static/media/bosque.0980baec.svg",
+    "static/media/colors.1aa9d066.svg": "/static/media/colors.1aa9d066.svg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/xc.3cdbe1d7.svg": "/static/media/xc.3cdbe1d7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df18c921.js",
+    "static/js/2.8c2bfd80.chunk.js",
+    "static/css/main.5828a183.chunk.css",
+    "static/js/main.c5b9ca80.chunk.js"
+  ]
+}
